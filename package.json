@@ -1,0 +1,11 @@
+{
+  "name": "otp_generator",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^5.0.1",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.0.0",
+    "messagebird": "^2.1.4"
+  }
+}
